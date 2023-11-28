@@ -1,2 +1,2 @@
 # ObstacleAssault-2023
- In this Unreal Engine 5 project I have created an obstacle course with imported models and some functions from C++ classes.
+In this project I not only strengthen my knowledge of Unreal Engine 5 with blueprints, but I also start using C++ classes to give more functionality to the project.
