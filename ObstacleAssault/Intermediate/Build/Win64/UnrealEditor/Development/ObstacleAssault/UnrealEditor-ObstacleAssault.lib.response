@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleAssault.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\ProyectosUnreal5\ObstacleAssault\Intermediate\Build\Win64\ObstacleAssaultEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"F:\ProyectosUnreal5\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssault\MovingPlatform.gen.cpp.obj"
+"F:\ProyectosUnreal5\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssault\ObstacleAssault.init.gen.cpp.obj"
+"F:\ProyectosUnreal5\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssault\MovingPlatform.cpp.obj"
+"F:\ProyectosUnreal5\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssault\ObstacleAssault.cpp.obj"
+"F:\ProyectosUnreal5\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssault\Default.rc2.res"
+/OUT:"F:\ProyectosUnreal5\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssault\UnrealEditor-ObstacleAssault.lib"
